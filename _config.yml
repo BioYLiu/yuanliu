@@ -12,11 +12,13 @@ author: Yuan Liu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  HOME: "about me"
+  RESOURCES:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  TEACHING: "https://deanattali.com"
+  PUBLICATIONS: "https://deanattali.com"
+  PROJECTS: "https://deanattali.com"
 
 # --- Logo --- #
 
